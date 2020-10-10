@@ -11,6 +11,6 @@ Project highlights:
 * **Clinical Intervention Workflow** - Scope, build, and monitor intervention programs designed to drive clinical outcomes such as patient drug adherence, vaccine series completion, and diabetes prevention.
 * **Custom Insights** - Support data-driven decision making through causal inference analysis, patient profiling, and ad-hoc descriptive statistics.
 
-When I'm not telling stories with data, I enjoy exploring Cincinnati's many parks, trying out new recipes at home, and obsessing about my dog, Otto.
+When I'm not telling stories with data, I enjoy exploring Cincinnati's many parks, trying out new recipes at home, and obsessing over my dog, Otto.
 
 **_How can we work together to define and solve problems?_**
