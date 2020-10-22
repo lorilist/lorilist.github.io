@@ -15,6 +15,6 @@ When I'm not telling stories with data, I enjoy exploring Cincinnati's many park
 
 **_How can we work together to define and solve problems?_**
 
-<br><br><br>
+<br>
 
 _The postings on this site are my own and do not necessarily represent the positions, strategies or opinions of 84.51° or our parent company, The Kroger Co._
